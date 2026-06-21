@@ -118,4 +118,4 @@ The primary prediction model uses:
 
 > Additional benchmark models include Random Forest and Logistic Regression.
 
-# Special thanks to @nirmit27 for preparing structure and frontend of the app. 
+## Special thanks to [Nirmit Mishra](https://github.com/nirmit27) for preparing structure and frontend of the app. 
